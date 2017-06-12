@@ -1,0 +1,18 @@
+echo salut
+alias .. cd ..
+alias ... cd ../..
+alias cd.. cd ..
+alias d dir
+alias dir ls --format=vertical
+alias helpcommand whatis
+alias l ll
+alias la ls -aF --color=none
+alias ll ls -l  --color=none
+alias ls ls $LS_OPTIONS
+alias md mkdir -p
+alias o less
+alias rd rmdir
+alias v vdir
+alias vdir ls --format=long
+alias erwann xdg-open sel.jpg
+PS1 [benoit.pingris | WHAOU] >
